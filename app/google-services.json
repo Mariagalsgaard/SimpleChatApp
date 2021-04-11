@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403439163960",
+    "project_id": "chatsimple-4c154",
+    "storage_bucket": "chatsimple-4c154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403439163960:android:a70f1075227ccfb443a4cd",
+        "android_client_info": {
+          "package_name": "com.ebookfrenzy.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403439163960-5qsifi1gv6so2hl9tsdi1nkdsu0elb64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwEDidupJbzNsKPNagpNzhl0OFjaF6Wzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403439163960-5qsifi1gv6so2hl9tsdi1nkdsu0elb64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
